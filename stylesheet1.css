@@ -20,7 +20,7 @@ li {
     background-size: contain;
 }
 a:visited {
-    color: rgb(174, 169, 169);
+    color: white;
 }
 a:hover {
     font-size: 18px;
